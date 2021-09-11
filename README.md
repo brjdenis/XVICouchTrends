@@ -7,13 +7,13 @@ A .NETv4 app that can be used to fetch Precise/HexaPOD couch error trends from X
 ## Installation
 
 
-Copy XVICouchTrends.exe from the folder "Compiled" to XVI. There is no installation. Do not install any additional software on XVI. You can use the program on another computer, just copy to that computer the IMAGE folder of your testing patient. That way you will avoid running the program on XVI. Before you copy files to another computer, delete Treatment Projections. This will save you a lot of time.
+You can use the program on another computer, just copy to that computer the IMAGE folder of your testing patient. That way you will avoid running the program on XVI. Before you copy files to another computer, delete Treatment Projections. This will save you a lot of time. The program only need the .INI files. 
+
+Or, if you are courageous, you can copy XVICouchTrends.exe from the folder "Compiled" to XVI. There is no installation. Do not install any additional software on XVI. 
 
 ## How to use
 
 Please read the license first. It is important that you understand it. Although the program only reads data, there is always a chance that something will go wrong.
-
-Copy the exe file to XVI or copy the IMAGE folder of the testing patient to another computer and run the program there. Do not install any software on XVI.
 
 Each day a phantom should be used for testing. The final goal is to get the errors in couch positoning. You do it like this:
 
