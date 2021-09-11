@@ -7,7 +7,7 @@ A .NETv4 app that can be used to fetch Precise/HexaPOD couch error trends from X
 ## Installation
 
 
-You can use the program on another computer, just copy to that computer the IMAGE folder of your testing patient. That way you will avoid running the program on XVI. Before you copy files to another computer, delete Treatment Projections. This will save you a lot of time. The program only need the .INI files. 
+You can use the program on any computer, just copy to that computer the IMAGE folder of your testing patient from XVI. That way you will avoid running the program on XVI. Before you copy files to another computer, delete Treatment Projections. This will save you a lot of time. The program only need the .INI files. 
 
 Or, if you are courageous, you can copy XVICouchTrends.exe from the folder "Compiled" to XVI. There is no installation. Do not install any additional software on XVI. 
 
