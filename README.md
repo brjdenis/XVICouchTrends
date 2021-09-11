@@ -36,7 +36,7 @@ The program will collect data from XVI's .INI files.
 
 ## Important note
 
-**Before using this program see the [licence](https://github.com/brjdenis/FlexmapShifter/blob/master/LICENSE) and make sure you understand it. The program comes with absolutely no guarantees of any kind.**
+**Before using this program see the [licence](https://github.com/brjdenis/XVICouchTrends/blob/master/LICENSE) and make sure you understand it. The program comes with absolutely no guarantees of any kind.**
 
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
